@@ -71,7 +71,3 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alimkhodr&hide=html,css&theme=radical">
 </p>
-
-
-<hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>

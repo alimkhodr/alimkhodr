@@ -40,11 +40,16 @@
 <!-- Reach me out on  -->
 
 <h2 align="center">
-  Reach me out on 
+  Reach me out on
 </h2>
 
 <p align="center">
-
+  <a href="https://www.linkedin.com/in/alimohamedkhodr/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin"/>
+  </a>
+  <a href="https://www.instagram.com/alikhodr10/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram"/>
+  </a>
 </p>
 
 <!-- My Github Stats -->

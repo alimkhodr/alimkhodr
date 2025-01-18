@@ -60,13 +60,13 @@
 
 <br>
 
-<p align = "center">
+<!-- <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=alimkhodr&show_icons=true&theme=radical&line_height=27">
 </p>
 
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alimkhodr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=5" />
-</p> 
+</p> -->
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alimkhodr&hide=html,css&theme=radical">
